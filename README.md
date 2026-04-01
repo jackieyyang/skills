@@ -1,6 +1,6 @@
 # Skills
 
-A collection of AI agent skills for Cursor, Codebuddy, Trae and other AI-powered editors.
+A collection of AI agent skills for AI-powered editors.
 
 ## Available Skills
 
@@ -17,7 +17,7 @@ npx skills add jackieyyang/skills
 Install a specific skill only:
 
 ```bash
-npx skills add jackieyyang/skills -s ntu-dissertation-expert
+npx skills add jackieyyang/skills -skill ntu-dissertation-expert
 ```
 
 Install globally (available across all projects):
