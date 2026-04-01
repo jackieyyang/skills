@@ -1,6 +1,10 @@
 # Skills
 
 <p align="center">
+  <img src="./assets/icon.png" alt="Skills" width="500" />
+</p>
+
+<p align="center">
   <a href="https://github.com/jackieyyang/skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jackieyyang/skills?style=flat-square" alt="LICENSE" /></a>
   <a href="https://github.com/jackieyyang/skills/stargazers"><img src="https://img.shields.io/github/stars/jackieyyang/skills?style=flat-square" alt="Stars" /></a>
   <a href="https://github.com/jackieyyang/skills/network/members"><img src="https://img.shields.io/github/forks/jackieyyang/skills?style=flat-square" alt="Forks" /></a>
