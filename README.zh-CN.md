@@ -45,13 +45,7 @@ npx skills add jackieyyang/skills -g
 
 ## Star 历史
 
-<a href="https://star-history.com/#jackieyyang/skills&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jackieyyang/skills&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jackieyyang/skills&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jackieyyang/skills&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=jackieyyang/skills&type=date&legend=top-left)](https://www.star-history.com/#jackieyyang/skills&type=date&legend=top-left)
 
 ## 许可证
 
