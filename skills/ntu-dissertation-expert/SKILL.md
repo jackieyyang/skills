@@ -1,10 +1,6 @@
 ---
 name: ntu-dissertation-expert
-description: >-
-  NTU EEE MSc dissertation LaTeX expert. Clones template, sets up local
-  compilation with live preview, and guides academic writing. Use when
-  creating an NTU dissertation project, editing .tex/.bib files, writing
-  thesis chapters, asking about NTU format, or needing LaTeX compilation help.
+description: "NTU EEE MSc dissertation LaTeX expert. Clones template, sets up local compilation with live preview, and guides academic writing. Use when creating an NTU dissertation project, editing .tex/.bib files, writing thesis chapters, asking about NTU format, or needing LaTeX compilation help."
 ---
 
 # NTU Dissertation Expert
