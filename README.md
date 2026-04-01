@@ -1,6 +1,6 @@
-# Cursor Skills
+# Skills
 
-A collection of AI agent skills for [Cursor](https://cursor.com/) / Codebuddy / Trae and other AI-powered editors.
+A collection of AI agent skills for Cursor, Codebuddy, Trae and other AI-powered editors.
 
 ## Available Skills
 
@@ -10,21 +10,21 @@ A collection of AI agent skills for [Cursor](https://cursor.com/) / Codebuddy / 
 
 ## Installation
 
-### Cursor
-
-Copy the skill directory to `~/.cursor/skills/`:
-
 ```bash
-# Clone this repo
-git clone https://github.com/jackieyyang/cursor-skills.git
-
-# Copy the skill you need
-cp -r cursor-skills/ntu-dissertation-expert ~/.cursor/skills/
+npx skills add jackieyyang/skills
 ```
 
-### Other AI Editors
+Install a specific skill only:
 
-Copy the skill files to the corresponding configuration directory of your editor (Codebuddy, Trae, etc.).
+```bash
+npx skills add jackieyyang/skills -s ntu-dissertation-expert
+```
+
+Install globally (available across all projects):
+
+```bash
+npx skills add jackieyyang/skills -g
+```
 
 ## License
 
