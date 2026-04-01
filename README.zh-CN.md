@@ -21,6 +21,11 @@
 |------|------|
 | [ntu-dissertation-expert](./skills/ntu-dissertation-expert/) | NTU EEE 硕士论文 LaTeX 专家。自动克隆模板、配置本地编译与实时预览、遵循 NTU 官方格式规范指导学术写作。跨平台支持（macOS / Windows / Linux）。 |
 
+## 市场页
+
+- skills.sh: [ntu-dissertation-expert](https://skills.sh/jackieyyang/skills/ntu-dissertation-expert)
+- agentskill.sh: [AI Agent Skills Directory](https://agentskill.sh)
+
 ## 安装
 
 ```bash
@@ -30,7 +35,7 @@ npx skills add jackieyyang/skills
 安装指定技能：
 
 ```bash
-npx skills add jackieyyang/skills -s ntu-dissertation-expert
+npx skills add jackieyyang/skills --skill ntu-dissertation-expert
 ```
 
 全局安装（所有项目可用）：

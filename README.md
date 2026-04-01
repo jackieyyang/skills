@@ -21,6 +21,11 @@ Works with Cursor, Windsurf, Cline, Copilot, Codebuddy, Trae, and any editor sup
 |-------|-------------|
 | [ntu-dissertation-expert](./skills/ntu-dissertation-expert/) | NTU EEE MSc dissertation LaTeX expert. Auto-clones template, sets up local compilation with live preview, and guides academic writing following official NTU guidelines. Cross-platform (macOS / Windows / Linux). |
 
+## Marketplace
+
+- skills.sh: [ntu-dissertation-expert](https://skills.sh/jackieyyang/skills/ntu-dissertation-expert)
+- agentskill.sh: [AI Agent Skills Directory](https://agentskill.sh)
+
 ## Installation
 
 ```bash
@@ -30,7 +35,7 @@ npx skills add jackieyyang/skills
 Install a specific skill:
 
 ```bash
-npx skills add jackieyyang/skills -s ntu-dissertation-expert
+npx skills add jackieyyang/skills --skill ntu-dissertation-expert
 ```
 
 Install globally (available across all projects):
