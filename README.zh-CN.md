@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">中文</a>
+  <a href="./README.md">English</a> | 中文
 </p>
 
 **Skills** 是一系列适用于 AI 编程编辑器的智能体技能集合。一行命令安装，为你的 AI 编程助手注入专业领域知识。

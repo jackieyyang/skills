@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">中文</a>
+  English | <a href="./README.zh-CN.md">中文</a>
 </p>
 
 **Skills** is a collection of AI agent skills for AI-powered editors. Install with a single command, enhance your AI coding assistant with domain-specific expertise.
