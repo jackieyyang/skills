@@ -11,39 +11,39 @@
   <a href="./README.md">English</a> | <a href="./README.zh-CN.md">中文</a>
 </p>
 
-**Skills** is a collection of AI agent skills for AI-powered editors. Install with a single command, enhance your AI coding assistant with domain-specific expertise.
+**Skills** 是一系列适用于 AI 编程编辑器的智能体技能集合。一行命令安装，为你的 AI 编程助手注入专业领域知识。
 
-Works with Cursor, Windsurf, Cline, Copilot, Codebuddy, Trae, and any editor supporting the Skills protocol.
+支持 Cursor、Windsurf、Cline、Copilot、Codebuddy、Trae 以及所有兼容 Skills 协议的编辑器。
 
-## Available Skills
+## 可用技能
 
-| Skill | Description |
-|-------|-------------|
-| [ntu-dissertation-expert](./ntu-dissertation-expert/) | NTU EEE MSc dissertation LaTeX expert. Auto-clones template, sets up local compilation with live preview, and guides academic writing following official NTU guidelines. Cross-platform (macOS / Windows / Linux). |
+| 技能 | 描述 |
+|------|------|
+| [ntu-dissertation-expert](./ntu-dissertation-expert/) | NTU EEE 硕士论文 LaTeX 专家。自动克隆模板、配置本地编译与实时预览、遵循 NTU 官方格式规范指导学术写作。跨平台支持（macOS / Windows / Linux）。 |
 
-## Installation
+## 安装
 
 ```bash
 npx skills add jackieyyang/skills
 ```
 
-Install a specific skill:
+安装指定技能：
 
 ```bash
 npx skills add jackieyyang/skills -s ntu-dissertation-expert
 ```
 
-Install globally (available across all projects):
+全局安装（所有项目可用）：
 
 ```bash
 npx skills add jackieyyang/skills -g
 ```
 
-## Contributing
+## 贡献
 
-Contributions are welcome! Feel free to submit a PR to add your own skills.
+欢迎贡献！你可以提交 PR 来添加自己的技能。
 
-## Star History
+## Star 历史
 
 <a href="https://star-history.com/#jackieyyang/skills&Date">
  <picture>
@@ -53,6 +53,6 @@ Contributions are welcome! Feel free to submit a PR to add your own skills.
  </picture>
 </a>
 
-## License
+## 许可证
 
 [MIT](./LICENSE)
