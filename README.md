@@ -21,9 +21,25 @@ Works with Cursor, Windsurf, Cline, Copilot, Codebuddy, Trae, and any editor sup
 
 ## Available Skills
 
+Skills are grouped by category under `skills/<category>/<skill>/`.
+
+### Claude Code (`skills/claude-code/`)
+
 | Skill | Description |
 |-------|-------------|
-| [ntu-dissertation-expert](./skills/ntu-dissertation-expert/) | NTU EEE MSc dissertation LaTeX expert. Auto-clones template, sets up local compilation with live preview, and guides academic writing following official NTU guidelines. Cross-platform (macOS / Windows / Linux). |
+| [cc-statusline](./skills/claude-code/cc-statusline/) | One-command install of a two-line Claude Code status line (Dracula theme): model, context bar with token counts, cost, effort level, git and worktree, plus 5h / 7d rate-limit quotas with reset countdowns. Backs up existing files and only touches the `statusLine` setting. |
+
+### Development (`skills/dev/`)
+
+| Skill | Description |
+|-------|-------------|
+| [git-commit](./skills/dev/git-commit/) | Create semantic git commits following the Conventional Commits specification, with type and scope derived from the actual diff. |
+
+### Academic (`skills/academic/`)
+
+| Skill | Description |
+|-------|-------------|
+| [ntu-dissertation-expert](./skills/academic/ntu-dissertation-expert/) | NTU EEE MSc dissertation LaTeX expert. Auto-clones template, sets up local compilation with live preview, and guides academic writing following official NTU guidelines. Cross-platform (macOS / Windows / Linux). |
 
 ## Marketplace
 

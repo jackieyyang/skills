@@ -21,9 +21,25 @@
 
 ## 可用技能
 
+技能按类别存放在 `skills/<类别>/<技能>/` 下。
+
+### Claude Code（`skills/claude-code/`）
+
 | 技能 | 描述 |
 |------|------|
-| [ntu-dissertation-expert](./skills/ntu-dissertation-expert/) | NTU EEE 硕士论文 LaTeX 专家。自动克隆模板、配置本地编译与实时预览、遵循 NTU 官方格式规范指导学术写作。跨平台支持（macOS / Windows / Linux）。 |
+| [cc-statusline](./skills/claude-code/cc-statusline/) | 一键安装两行式 Claude Code 状态栏（Dracula 主题）：模型、带 token 数的上下文进度条、费用、推理强度、git 与 worktree，以及 5h / 7d 额度和重置倒计时。安装前自动备份，只改动 `statusLine` 配置。 |
+
+### 开发（`skills/dev/`）
+
+| 技能 | 描述 |
+|------|------|
+| [git-commit](./skills/dev/git-commit/) | 按约定式提交（Conventional Commits）规范生成提交信息，根据实际 diff 判断 type 和 scope。 |
+
+### 学术（`skills/academic/`）
+
+| 技能 | 描述 |
+|------|------|
+| [ntu-dissertation-expert](./skills/academic/ntu-dissertation-expert/) | NTU EEE 硕士论文 LaTeX 专家。自动克隆模板、配置本地编译与实时预览、遵循 NTU 官方格式规范指导学术写作。跨平台支持（macOS / Windows / Linux）。 |
 
 ## 市场页
 
